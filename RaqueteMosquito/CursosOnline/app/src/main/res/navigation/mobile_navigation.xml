@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.cursosonline.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_pessoas"
+        android:name="com.example.cursosonline.ui.NavPages.PessoasFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/nav_alunos"
+        android:name="com.example.cursosonline.ui.NavPages.AlunoFragment"
+        android:label="@string/menu_alunos"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_professor"
+        android:name="com.example.cursosonline.ui.NavPages.ProfessorFragment"
+        android:label="@string/menu_professor"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_cursos"
+        android:name="com.example.cursosonline.ui.NavPages.CursosFragment"
+        android:label="@string/menu_cursos"
+        tools:layout="@layout/fragment_cursos" />
+
+
+</navigation>
