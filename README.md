@@ -20,6 +20,10 @@ Aqui estão alguns dos projetos desenvolvidos:
 - Aplicativo de calculadora básico com operações matemáticas
 - Interface criada com XML e manipulação de eventos
 
+### 2. Sistema de Cadastro de Empresa
+- Cadastro de usuários e cursos no aplicativo
+- Edição de informações dos usuários ao selecionar na ListView
+
 ## 📖 Como Executar os Projetos
 ```sh
 git clone https://github.com/seu-usuario/portfolio-android.git
