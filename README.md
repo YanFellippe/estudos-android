@@ -30,6 +30,11 @@ Aqui estão alguns dos projetos desenvolvidos:
 ### 4. Condicional da Raquete
 - Teste de cadeia lógica para uma raquete que mata mosquitos
 
+### 5. Calculadora de IMC (Índice de Massa Corporal)
+- Calculadora para avaliar se a massa corporal de uma pessoa está nos padrões desejados
+
+### 6.  
+
 ## 📖 Como Executar os Projetos
 ```sh
 git clone https://github.com/seu-usuario/portfolio-android.git
