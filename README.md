@@ -33,7 +33,8 @@ Aqui estão alguns dos projetos desenvolvidos:
 ### 5. Calculadora de IMC (Índice de Massa Corporal)
 - Calculadora para avaliar se a massa corporal de uma pessoa está nos padrões desejados
 
-### 6.  
+### 6. Funcionalidade Calendário
+- Teste da biblioteca calendário para marcar datas e eventos
 
 ## 📖 Como Executar os Projetos
 ```sh
