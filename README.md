@@ -24,6 +24,12 @@ Aqui estão alguns dos projetos desenvolvidos:
 - Cadastro de usuários e cursos no aplicativo
 - Edição de informações dos usuários ao selecionar na ListView
 
+### 3. Condicional de Avião
+- Teste de cadeia lógica para decolar com um avião
+
+### 4. Condicional da Raquete
+- Teste de cadeia lógica para uma raquete que mata mosquitos
+
 ## 📖 Como Executar os Projetos
 ```sh
 git clone https://github.com/seu-usuario/portfolio-android.git
