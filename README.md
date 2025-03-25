@@ -8,7 +8,7 @@ Este portfólio serve para acompanhar minha evolução no desenvolvimento de apl
 ## 🔧 Tecnologias Utilizadas
 - **Linguagens**: Java, Kotlin
 - **IDE**: Android Studio
-- **Banco de Dados**: SQLite, Room
+- **Banco de Dados**: MySQL
 - **Frameworks e Bibliotecas**: Jetpack Components, Retrofit, Firebase, Glide
 - **Padrões de Arquitetura**: MVC, MVVM
 - **Gerenciamento de Dependências**: Gradle
